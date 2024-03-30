@@ -1,2 +1,9 @@
 The rainbow has seven colours
 VIBGYOR
+Violet
+Indigo
+Blue
+Green
+Yellow
+Orange
+Red
